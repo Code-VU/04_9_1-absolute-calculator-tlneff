@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=14815255&assignment_repo_type=AssignmentRepo)
 # Assignment
 Write a program that, given a number n, returns the absolute difference between n and 21. If n is greater than 21, return double the absolute difference.
 
